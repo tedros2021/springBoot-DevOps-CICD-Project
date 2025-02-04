@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ted</groupId>
-    <artifactId>SpringApi</artifactId>
+    <artifactId>TedyCICDSpringApi</artifactId>
     <version>0.0.1</version>
     <name>springBoot-DevOps-CICD-Project</name>
     <description>springBoot-DevOps-CICD-Project</description>
