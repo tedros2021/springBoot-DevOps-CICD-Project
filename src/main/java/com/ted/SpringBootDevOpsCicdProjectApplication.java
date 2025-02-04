@@ -38,6 +38,8 @@ public class SpringBootDevOpsCicdProjectApplication implements CommandLineRunner
         employeeRepository.save(e5);
         Employee e6 = new Employee("Samrawit", "Kasahun", "sk@gmail.com");
         employeeRepository.save(e6);
+        Employee e7 = new Employee("Awet", "Asmerom", "aa@gmail.com");
+        employeeRepository.save(e6);
 
 
 //        userRepository.deleteAll();
